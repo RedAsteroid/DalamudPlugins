@@ -1,0 +1,26 @@
+{
+  "Author": "Jukka",
+  "Name": "NecroLens",
+  "InternalName": "NecroLens",
+  "AssemblyVersion": "1.0.3.3",
+  "Description": "深层迷宫小帮手，为您提供怪物的仇恨范围与视觉范围以及其他一切的雷达。\n修改opcode为国服6.31版本，仅供参考，小店倒卖死妈，买的也死妈\n本地化 by RedAsteroid",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Jukkales/NecroLens",
+  "Tags": [
+    "potd",
+    "hoh",
+    "eo",
+    "esp",
+    "radar",
+    "sonar",
+    "deep",
+    "dungeon"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
+  "Punchline": "一个真正的死灵术士总是对深层迷宫了如指掌…… 而其他人只是在使用高科技！",
+  "AcceptsFeedback": true
+}

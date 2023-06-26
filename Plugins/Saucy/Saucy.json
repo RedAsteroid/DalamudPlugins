@@ -1,0 +1,21 @@
+{
+  "Author": "Taurenkey (Puni.sh)",
+  "Name": "Saucy",
+  "InternalName": "Saucy",
+  "AssemblyVersion": "1.1.0.2",
+  "Description": "自动执行一些金碟游乐场的小游戏",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/Saucy",
+  "Tags": [
+    "gold saucer",
+    "mgp",
+    "automation"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/saucy.png",
+  "Punchline": "当你为赚取金碟币过于辛苦时……",
+  "AcceptsFeedback": true
+}

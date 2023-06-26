@@ -1,0 +1,17 @@
+{
+  "Author": "daemitus",
+  "Name": "Yes Already",
+  "InternalName": "YesAlready",
+  "AssemblyVersion": "1.3.0.2",
+  "Description": "厌倦了在天幕魔导城中点击\"是\"吗？不能忍受在副本中使用钥匙？那么我有一个插件给你! Yes Already是专门为点击所有你已经习惯了的烦人的对话框而设计的。只要在对话框输入文字，你就不会再看到它了! 它还可以与/正则表达式/一起使用，并且有几个内置的模块，用于那些不完全是 \"是\"/\"否 \"的提示，但表现得很像（如\"道具分解\"）的对话框。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/daemitus/YesAlready",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 1,
+  "ImageUrls": [],
+  "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
+  "Punchline": "在您指定的各种对话中点击 \"是\"。",
+  "AcceptsFeedback": true
+}

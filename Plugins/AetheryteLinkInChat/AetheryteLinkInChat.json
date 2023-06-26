@@ -1,0 +1,43 @@
+{
+  "Disabled": false,
+  "Testing": false,
+  "ScheduledForDeletion": false,
+  "InstalledFromUrl": "https://xiv.starry.blue/plugins/master.json",
+  "IsThirdParty": true,
+  "EffectiveVersion": "0.1.0.1255",
+  "IsAvailableForTesting": false,
+  "Author": "Asteria Nocturna",
+  "Name": "Divination.AetheryteLinkInChat",
+  "Punchline": "为怪物狩猎进行快速传送",
+  "Description": "将一个传送到最近水晶的链接添加到含有地图标记的聊天中。",
+  "Changelog": "30c410a: fix(PluginRepository): un-ignore latest.zip\n74fd36f: fix(PluginRepository): fix current dir\n84a36ea: ⚙️ Deploy FaloopIntegration \"0.1.0-beta.1243.6c05d37.20230508\"\n9bcfe5d: chore(deps): update dependency eslint-plugin-react-refresh to v0.4.1\na3fe0c5: ⚙️ Deploy Calculator \"0.1.0-beta.1243.6c05d37.20230508\"\n206f4e8: chore(deps): update dependency @vitejs/plugin-react-swc to v3.3.0\n04a22d3: ⚙️ Deploy TwitterIntegration \"0.1.0-beta.1243.6c05d37.20230508\"\n7fa7595: ⚙️ Deploy Voiceroid2Talker \"0.1.0-beta.1243.6c05d37.20230508\"\nb8a787f: ⚙️ Deploy InstanceIDViewer \"0.1.0-beta.1243.6c05d37.20230508\"\n480a224: chore(deps): update dependency typescript to v5.0.4\n9ffff3d: ⚙️ Deploy DiscordIntegration \"0.1.0-beta.1243.6c05d37.20230508\"\n1ce938d: ⚙️ Deploy Debugger \"0.1.0-beta.1243.6c05d37.20230508\"\n6c05d37: Merge remote-tracking branch 'origin/master'\n5621630: Delete CNAME\n3abb953: chore(PluginRepository): enable download counter\n6ee9aef: chore(PluginRepository): do not generate master.json on CI\n875d02e: feat(PluginRepository): static pages\n6a8a8f5: refactor(PluginRepository): docs -> dist\nfbc5e48: docs(Plugins): update old README\n01db208: chore(DownloadCounter): move endpoints\nfe24cd4: Merge remote-tracking branch 'origin/master'\n60b5c56: feat(DownloadCounter): add Pages Function\nbb6509c: fix(DownloadCounter): base image tag\n4e5e608: feat(DownloadCounter): rewrite with Golang\n57e14f1: chore(deps): update dependency flask to v2.3.2 [security]\n96c67af: ⚙️ Regenerate PluginMaster\n45cd7d8: ⚙️ Deploy FaloopIntegration \"0.1.0-beta.1228.f011e98.20230428\"\nf011e98: chore(deps): update dependency socketioclient to v3.0.8\n88f60d8: ⚙️ Deploy Calculator \"0.1.0-beta.1226.4c8bcd2.20230428\"\n4c8bcd2: fix: typo",
+  "Tags": [
+    "teleporter"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "IsHide": false,
+  "InternalName": "AetheryteLinkInChat",
+  "AssemblyVersion": "0.1.0.1255",
+  "TestingAssemblyVersion": "0.1.0.1255",
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/SlashNephy/Divination",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 8,
+  "DownloadCount": 151,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/AetheryteLinkInChat/download",
+  "DownloadLinkUpdate": null,
+  "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/AetheryteLinkInChat/download",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "ImageUrls": [],
+  "IconUrl": null,
+  "AcceptsFeedback": false,
+  "FeedbackMessage": null,
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}

@@ -1,0 +1,12 @@
+{
+	"Author": "NightmareXIV",
+	"Name": "TextAdvance",
+	"InternalName": "TextAdvance",
+	"AssemblyVersion": "3.0.0.7",
+	"Punchline": "自动跳过对话框以及确认跳过过场动画，主要对副职升级十分有效。需要在每次登陆时输入 /at 命令才能启用。",
+	"Description": "速通任务的辅助工具，自动跳过对话框以及确认跳过过场动画。",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+	"DalamudApiLevel": 8,
+	"LoadPriority": 0
+}

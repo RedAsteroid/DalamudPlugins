@@ -1,0 +1,17 @@
+{
+  "Author": "кайт машина (Puni.sh),Roshin(汉化)",
+  "Name": "AutoRetainer",
+  "InternalName": "AutoRetainer",
+  "AssemblyVersion": "3.1.2.6",
+  "Description": "像躺在您的床上一样舒适地管理您的雇员",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
+  "Punchline": "像躺在您的床上一样舒适地管理您的雇员",
+  "AcceptsFeedback": true
+}

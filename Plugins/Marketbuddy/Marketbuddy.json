@@ -1,0 +1,14 @@
+{
+  "Author": "Chalkos，Roshin(汉化)",
+  "Name": "Marketbuddy",
+  "InternalName": "Marketbuddy",
+  "AssemblyVersion": "0.2.2.15",
+  "Description": "协助您的日常市场操作",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "更少的点击，更多的金币!",
+  "AcceptsFeedback": true
+}
