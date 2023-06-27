@@ -1,0 +1,17 @@
+{
+  "Author": "Taurenkey (Puni.sh), RedAsteroid (机翻)",
+  "Name": "Artisan",
+  "InternalName": "Artisan",
+  "AssemblyVersion": "1.9.0.2",
+  "Description": "多合一的生产制作插件。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/Artisan",
+  "Tags": [
+    "crafting"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/artisan.png",
+  "Punchline": "一个\"简单\"的制作插件。\n[ 部分翻译参考Y佬 ]",
+  "Changelog": "- 请访问Discord以获取完整的更新列表。"
+}
