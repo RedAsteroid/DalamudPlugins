@@ -1,16 +1,16 @@
 [
   {
-    "Author": "Jukka",
+    "Author": "Jukka, RedAsteroid(本地化)",
     "Name": "NecroLens",
     "InternalName": "NecroLens",
-    "Punchline": "一个真正的死灵术士总是对深层迷宫了如指掌…… 而其他人只是在使用高科技！",
-    "AssemblyVersion": "1.0.3.4",
-    "Description": "深层迷宫小帮手，为您提供怪物的仇恨范围与视觉范围以及其他一切的雷达。\n已更新opcode为国服6.35版本，仅供参考，小店倒卖死妈，买的也死妈\n本地化 by RedAsteroid",
+    "Punchline": "一个真正的死灵术士总是对深层迷宫了如指掌…… 而其他人只是在使用高科技！\n(在线安装 Only)",
+    "AssemblyVersion": "1.0.3.5",
+    "Description": "深层迷宫小帮手，提供怪物的引战、视觉范围以及其他一切的雷达。\n更正了正统优雷卡中部分错误的引战范围显示。\nCN6.35 闲鱼小店倒卖死妈，买的也死妈。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/RedAsteroid/DalamudPlugins/raw/main/Plugins/NecroLens/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/RedAsteroid/DalamudPlugins/raw/main/Plugins/NecroLens/latest.zip",
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/NecroLens/releases/download/1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/NecroLens/releases/download/1/latest.zip",
   },
   {
     "Author": "Chalkos",
