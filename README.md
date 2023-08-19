@@ -23,3 +23,5 @@ https://raw.fastgit.org/RedAsteroid/DalamudPlugins/main/pluginmaster.json
 4. ~~Saucy by Puni.sh~~ 闲鱼小店你妈死了，以后再说
 5. ~~AutoRetainer by Puni.sh~~ 同上
 6. ~~PandorasBox by Puni.sh~~ 同上
+7. TextAdvance by NightmareXIV
+

@@ -1,12 +1,16 @@
 {
-	"Author": "NightmareXIV",
-	"Name": "TextAdvance",
-	"InternalName": "TextAdvance",
-	"AssemblyVersion": "3.0.0.7",
-	"Punchline": "×Ô¶¯Ìø¹ı¶Ô»°¿òÒÔ¼°È·ÈÏÌø¹ı¹ı³¡¶¯»­£¬Ö÷Òª¶Ô¸±Ö°Éı¼¶Ê®·ÖÓĞĞ§¡£ĞèÒªÔÚÃ¿´ÎµÇÂ½Ê±ÊäÈë /at ÃüÁî²ÅÄÜÆôÓÃ¡£",
-	"Description": "ËÙÍ¨ÈÎÎñµÄ¸¨Öú¹¤¾ß£¬×Ô¶¯Ìø¹ı¶Ô»°¿òÒÔ¼°È·ÈÏÌø¹ı¹ı³¡¶¯»­¡£",
-	"ApplicableVersion": "any",
-	"RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
-	"DalamudApiLevel": 8,
-	"LoadPriority": 0
+  "Author": "NightmareXIV, RedAsteroid(ç¿»è¯‘)",
+  "Name": "TextAdvance",
+  "InternalName": "TextAdvance",
+  "AssemblyVersion": "3.0.0.8",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "è‡ªåŠ¨è·³è¿‡å¯¹è¯æ¡†ä»¥åŠç¡®è®¤è·³è¿‡è¿‡åœºåŠ¨ç”»ï¼Œå¯¹å‰¯èŒå‡çº§ååˆ†æœ‰æ•ˆã€‚éœ€è¦åœ¨æ¯æ¬¡ç™»é™†æ—¶è¾“å…¥ /at å‘½ä»¤æ‰èƒ½å¯ç”¨ã€‚\n(åœ¨çº¿å®‰è£… Only)",
+  "AcceptsFeedback": true
 }
