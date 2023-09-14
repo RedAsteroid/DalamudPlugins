@@ -24,4 +24,5 @@ https://raw.fastgit.org/RedAsteroid/DalamudPlugins/main/pluginmaster.json
 5. ~~AutoRetainer by Puni.sh~~ 同上
 6. ~~PandorasBox by Puni.sh~~ 同上
 7. TextAdvance by NightmareXIV
+8. HuntTrainAssistant by NightmareXIV
 
