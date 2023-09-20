@@ -1,9 +1,9 @@
 {
-  "Author": "Chalkos",
+  "Author": "Chalkos, RedAsteroid(汉化)",
   "Name": "Marketbuddy",
   "InternalName": "Marketbuddy",
-  "AssemblyVersion": "0.2.2.16",
-  "Description": "协助您进行日复一日的市场操作\nCN6.31 本地化 By RedAsteroid",
+  "AssemblyVersion": "0.2.2.17",
+  "Description": "协助您进行日复一日的市场操作\nCN6.4",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
