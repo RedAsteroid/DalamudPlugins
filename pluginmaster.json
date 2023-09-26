@@ -56,12 +56,12 @@
     "Name": "HuntTrainAssistant",
     "InternalName": "HuntTrainAssistant",
     "Punchline": "[beta] 狩猎车辅助工具",
-    "AssemblyVersion": "1.0.0.2",
-    "Description": "为狩猎车提供实用的工具，例如：高亮车头的信息并屏蔽其他所有的聊天内容、自动打开车头发送的坐标链接以及自动传送到车头发送的目的地。",
+    "AssemblyVersion": "1.0.0.3",
+    "Description": "为狩猎车提供实用的工具，例如：高亮车头的信息并屏蔽其他所有的聊天内容、自动打开车头发送的坐标链接以及自动传送到车头发送的目的地。\n._.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/HuntTrainassist.png",
-    "DownloadLinkInstall": "https://github.com/RedAsteroid/HuntTrainAssistant/releases/download/1/HuntTrainAssistant.zip",
-    "DownloadLinkUpdate": "https://github.com/RedAsteroid/HuntTrainAssistant/releases/download/1/HuntTrainAssistant.zip",
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/HuntTrainAssistant/releases/download/2/HuntTrainAssistant.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/HuntTrainAssistant/releases/download/2/HuntTrainAssistant.zip",
   }
  ]
