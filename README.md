@@ -4,17 +4,12 @@
 
 **本仓库所有插件禁止任何形式的倒卖！**
 
-# 仓库地址： #
+# 仓库链接： #
 
-Github源站
 ```
 https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json
 ```
 
-国内加速
-```
-https://raw.fastgit.org/RedAsteroid/DalamudPlugins/main/pluginmaster.json
-```
 
 ## 本仓库目前有以下开源插件
 1. AetheryteLinkInChat by SlashNephy
