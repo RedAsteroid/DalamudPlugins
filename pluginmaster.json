@@ -68,7 +68,7 @@
     "Author": "UnknownX",
     "Name": "OOBlugin",
     "InternalName": "OOBlugin",
-    "Punchline": "oob oob",
+    "Punchline": "oob oob\noob = out of bounds 越界出图",
     "AssemblyVersion": "1.1.2.10",
     "Description": "oob oob\noob = out of bounds 越界出图",
     "ApplicableVersion": "any",
