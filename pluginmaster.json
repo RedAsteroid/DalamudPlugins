@@ -63,5 +63,18 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/HuntTrainassist.png",
     "DownloadLinkInstall": "https://github.com/RedAsteroid/HuntTrainAssistant/releases/download/2/HuntTrainAssistant.zip",
     "DownloadLinkUpdate": "https://github.com/RedAsteroid/HuntTrainAssistant/releases/download/2/HuntTrainAssistant.zip",
+  },
+  {
+    "Author": "UnknownX",
+    "Name": "OOBlugin",
+    "InternalName": "OOBlugin",
+    "Punchline": "oob oob",
+    "AssemblyVersion": "1.1.2.10",
+    "Description": "oob oob\noob = out of bounds 越界出图",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": " null",
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/DalamudPlugins/raw/main/Plugins/OOBlugin/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/DalamudPlugins/raw/main/Plugins/OOBlugin/latest.zip",
   }
  ]

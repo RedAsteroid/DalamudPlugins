@@ -1,0 +1,23 @@
+{
+  "Author": "UnknownX",
+  "Name": "OOBlugin",
+  "InternalName": "OOBlugin",
+  "AssemblyVersion": "1.1.2.10",
+  "Description": "oob oob\noob = out of bounds 越界出图",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "",
+  "Punchline": "oob oob \noob = out of bounds 越界出图",
+  "Changelog": "",
+  "AcceptsFeedback": true
+}

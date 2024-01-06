@@ -20,4 +20,4 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 6. ~~PandorasBox by Puni.sh~~ 同上
 7. TextAdvance by NightmareXIV
 8. HuntTrainAssistant by NightmareXIV
-
+9. OOBlugin by UnknownX7
