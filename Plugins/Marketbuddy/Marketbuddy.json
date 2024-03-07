@@ -1,14 +1,15 @@
 {
-  "Author": "Chalkos, RedAsteroid(汉化)",
+  "Author": "Chalkos",
   "Name": "Marketbuddy",
   "InternalName": "Marketbuddy",
-  "AssemblyVersion": "0.2.2.17",
-  "Description": "协助您进行日复一日的市场操作\nCN6.4",
+  "AssemblyVersion": "0.2.3.0",
+  "Description": "帮助您进行日复一日的市场操作",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "更少的点击，更多的金币!",
+  "Punchline": "点击越少，金币越多！",
   "AcceptsFeedback": true
 }
