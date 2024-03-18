@@ -87,7 +87,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png",
-    "DownloadLinkInstall": "https://github.com/RedAsteroid/YesAlready/releases/download/1/1.zip",
-    "DownloadLinkUpdate": "https://github.com/RedAsteroid/YesAlready/releases/download/1/1.zip",
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/YesAlready/releases/download/1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/YesAlready/releases/download/1/latest.zip",
   }
  ]
