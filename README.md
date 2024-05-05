@@ -1,4 +1,4 @@
-﻿# DalamudPlugins
+﻿﻿# DalamudPlugins
 
 分享国服可用的个人汉化的插件仓库，均为机翻不保证质量，请注意。
 
@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 4. TextAdvance by NightmareXIV
 5. HuntTrainAssistant by NightmareXIV
 6. YesAlready by daemitus
+7. Umbra by Una
 
 以下插件还没有更新
 
