@@ -2,7 +2,7 @@
   "Author": "Chalkos",
   "Name": "Marketbuddy",
   "InternalName": "Marketbuddy",
-  "AssemblyVersion": "0.2.3.0",
+  "AssemblyVersion": "0.2.3.1",
   "Description": "帮助您进行日复一日的市场操作",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
