@@ -1,4 +1,4 @@
-﻿﻿# DalamudPlugins
+﻿# DalamudPlugins
 
 分享国服可用的个人汉化的插件仓库，均为机翻不保证质量，请注意。
 
