@@ -93,10 +93,10 @@
   {
     "Author": "Una",
     "Name": "Umbra XIV",
-    "InternalName": "Umbra",
+    "InternalName": "UmbraX",
     "Punchline": "Ain't you a pretty little thing?",
     "AssemblyVersion": "1.0.6.17",
-    "Description": "为游戏增加了生活质量改进功能，并将常用的用户界面元素和操作整合到一个统一的界面中\n适配中国服务器优雷卡幸福兔文本，注释了DTR、切换在线状态功能\n\nTranslated by DeepL/Chatgpt 渣渣机翻\n仅测试用，个人能力有限，期待大佬接手",
+    "Description": "为游戏增加了生活质量改进功能，并将常用的用户界面元素和操作整合到一个统一的界面中\n适配中国服务器优雷卡幸福兔文本，注释了DTR、切换在线状态功能\n\nTranslated by DeepL/Chatgpt 渣渣机翻\n仅测试用，个人能力有限，期待大佬接坑",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/main/testing/live/Umbra/images/icon.png",
