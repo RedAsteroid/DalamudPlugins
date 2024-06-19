@@ -109,7 +109,7 @@
     "InternalName": "Lifestream",
     "Punchline": "一个加速城内以太之光传送和跨界传送的插件 (在线安装 Only)",
     "AssemblyVersion": "2.1.1.4999",
-    "Description": "- 一键传送到任何服务器或城内以太之晶目的地\n- 点击地图内的以太之光传送到它们的位置\n\n- 仅作为HuntTrainAssistant测试使用，没有汉化\n- 未修复地址簿\n- 本地化请关注NiGuangOwO，同步后将本仓库将撤除此插件\n\n闲鱼买挂的，你和你的野爹倒狗一起死",
+    "Description": "- 一键传送到任何服务器或城内以太之晶目的地\n- 点击地图内的以太之光传送到它们的位置\n\n- 仅作为HuntTrainAssistant测试使用，没有汉化\n- 未修复地址簿\n- 本地化请关注NiGuangOwO，同步后本仓库将撤除此插件\n\n闲鱼买挂的，你和你的野爹倒狗一起死",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Lifestream/main/Lifestream/images/icon.png",
