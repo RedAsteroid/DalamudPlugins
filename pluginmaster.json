@@ -115,5 +115,18 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Lifestream/main/Lifestream/images/icon.png",
     "DownloadLinkInstall": "https://github.com/RedAsteroid/Lifestream/releases/download/0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/RedAsteroid/Lifestream/releases/download/0/latest.zip",
+  },
+  {
+    "Author": "0x, NiGuangOwO",
+    "Name": "LuckyStar",
+    "InternalName": "LuckyStar",
+    "Punchline": "自动农怪（需安装vnavmesh及自动循环插件）\n尝试修复一些问题，如果炸了自己修",
+    "AssemblyVersion": "0.0.0.21",
+    "Description": "woc！触发组！\n- 修改posdistance防止卡住\n- 修改萨维奈毕舍遮点位以避开A怪刷新点",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IconUrl": " null",
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/LuckyStar/releases/download/O%CF%89O/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/LuckyStar/releases/download/O%CF%89O/latest.zip",
   }
  ]
