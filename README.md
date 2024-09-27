@@ -6,8 +6,6 @@
 
 - CN 7.0
 
-还没做完.jpg
-
 
 ## 仓库链接：
 
@@ -21,7 +19,6 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 |---|---|---|---|
 | AetheryteLinkInChat | [SlashNephy](https://github.com/SlashNephy) | 为含有坐标的聊天添加一个传送到目的地最近水晶的按钮 |    |
 | Marketbuddy | [chalkos](https://github.com/chalkos) | 优化手动压价 |    |
-| NecroLens | [Jukkales](https://github.com/Jukkales) | 深层迷宫雷达 |    |
 | TextAdvance | [NightmareXIV](https://github.com/NightmareXIV) | 跳过对话框与过场动画等 |    |
 | HuntTrainAssistant | [NightmareXIV](https://github.com/NightmareXIV) | 狩猎车辅助工具 |   |
 | YesAlready | [daemitus](https://github.com/daemitus) | 自定义选择、跳过对话框与窗口等 |    |
@@ -30,3 +27,4 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 | OOBlugin | [UnknownX7](https://github.com/UnknownX7) | 出图辅助 | | |
 | LuckyStar | [c98cmka](https://github.com/c98cmka)、[NiGuangOWO](https://github.com/NiGuangOwO) | S怪狩猎触发自动农怪 | 仅测试 |
 | Umbra | [Una](https://github.com/una-xiv) | 提供QOL功能，整合常用用户界面元素与操作到统一的界面中 | 仅测试，不会长期维护   |
+| NecroLens | [Jukkales](https://github.com/Jukkales) | 深层迷宫雷达 |    |
