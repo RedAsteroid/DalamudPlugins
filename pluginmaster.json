@@ -93,7 +93,7 @@
   {
     "Author": "Una",
     "Name": "Umbra XIV",
-    "InternalName": "UmbraX",
+    "InternalName": "Umbra",
     "Punchline": "为游戏添加了完全可自定义的工具栏与 3D 世界标记。",
     "AssemblyVersion": "2.2.39",
     "Description": "为游戏添加了改进生活质量的功能，并将常用的 UI 元素与操作整合到一个统一的工具栏界面中。",
