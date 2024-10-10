@@ -93,10 +93,10 @@
   {
     "Author": "Una",
     "Name": "Umbra XIV",
-    "InternalName": "Umbra",
+    "InternalName": "UmbraX",
     "Punchline": "为游戏添加了完全可自定义的工具栏与 3D 世界标记。",
     "AssemblyVersion": "2.2.39",
-    "Description": "为游戏添加了改进生活质量的功能，并将常用的 UI 元素与操作整合到一个统一的工具栏界面中。",
+    "Description": "为游戏添加了改进生活质量的功能，并将常用的 UI 元素与操作整合到一个统一的工具栏界面中。\n\n迁移配置: 请进入 pluginConfigs 文件夹,将 Umbra 文件夹中内容覆盖到 UmbraX 文件夹",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
     "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/main/testing/live/Umbra/images/icon.png",
