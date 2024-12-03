@@ -115,5 +115,18 @@
     "IconUrl": " null",
     "DownloadLinkInstall": "https://github.com/RedAsteroid/LuckyStar/releases/download/O%CF%89O/latest.zip",
     "DownloadLinkUpdate": "https://github.com/RedAsteroid/LuckyStar/releases/download/O%CF%89O/latest.zip",
+  },
+  {
+    "Author": "Liza Carvelli",
+    "Name": "RetainerTrack",
+    "InternalName": "RetainerTrack",
+    "Punchline": "记录雇员归属的玩家",
+    "AssemblyVersion": "4.3",
+    "Description": "记录雇员归属的玩家 ———— 如果您在本地遇见过雇员的所有者（例如你们在同一个队伍中，或者见到过雇员所有者制作的物品）。\n\n当物品制作者不是雇员的所有者（避免错误归属到转卖玩家），以及物品帮助信息显示\"正在获取署名\"时，记录将不会生效。",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "IconUrl": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/Plugins/RetainerTrack/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/Plugins/RetainerTrack/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/Plugins/RetainerTrack/latest.zip",
   }
  ]
