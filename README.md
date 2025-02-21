@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 |---|---|---|---|
 | RetainerTrack | [Liza](https://git.carvel.li/liza) | 记录雇员归属的玩家 | 修复编码错误 |
 | HuntTrainAssistant | [NightmareXIV](https://github.com/NightmareXIV) | 狩猎车辅助工具 | 国服world存在问题，请使用[NiGuangOWO](https://github.com/NiGuangOwO)仓库中的Lifestream |
-| **-以下插件暂未更新-** | - | - | - |
 | AetheryteLinkInChat | [SlashNephy](https://github.com/SlashNephy) | 为含有坐标的聊天添加一个传送到目的地最近水晶的按钮 |    |
+| **-以下插件暂未更新-** | - | - | - |
 | Marketbuddy | [chalkos](https://github.com/chalkos) | 优化手动压价 |    |
 | TextAdvance | [NightmareXIV](https://github.com/NightmareXIV) | 跳过对话框与过场动画等 |    |
 | YesAlready | [daemitus](https://github.com/daemitus) | 自定义选择、跳过对话框与窗口等 |    |
