@@ -18,11 +18,11 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 | 插件名称 | 作者 | 介绍 | 备注 |
 |---|---|---|---|
 | RetainerTrack | [Liza](https://git.carvel.li/liza) | 记录雇员归属的玩家 | 修复编码错误 |
+| HuntTrainAssistant | [NightmareXIV](https://github.com/NightmareXIV) | 狩猎车辅助工具 | 国服world存在问题，请使用[NiGuangOWO](https://github.com/NiGuangOwO)仓库中的Lifestream |
 | **-以下插件暂未更新-** | - | - | - |
 | AetheryteLinkInChat | [SlashNephy](https://github.com/SlashNephy) | 为含有坐标的聊天添加一个传送到目的地最近水晶的按钮 |    |
 | Marketbuddy | [chalkos](https://github.com/chalkos) | 优化手动压价 |    |
 | TextAdvance | [NightmareXIV](https://github.com/NightmareXIV) | 跳过对话框与过场动画等 |    |
-| HuntTrainAssistant | [NightmareXIV](https://github.com/NightmareXIV) | 狩猎车辅助工具 |   |
 | YesAlready | [daemitus](https://github.com/daemitus) | 自定义选择、跳过对话框与窗口等 |    |
 | NecroLens | [Jukkales](https://github.com/Jukkales) | 深层迷宫雷达 |    |
 | Umbra | [Una](https://github.com/una-xiv) | 提供改善游戏生活质量的自定义工具栏与 3D 世界标记功能 | 主库已修复，请使用主库版本   |
