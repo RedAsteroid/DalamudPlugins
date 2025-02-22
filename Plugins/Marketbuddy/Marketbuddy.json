@@ -2,14 +2,14 @@
   "Author": "Chalkos",
   "Name": "Marketbuddy",
   "InternalName": "Marketbuddy",
-  "AssemblyVersion": "0.2.3.1",
-  "Description": "帮助您进行日复一日的市场操作",
+  "AssemblyVersion": "0.2.3.3",
+  "Description": "Helper for your day-to-day market operations.",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "点击越少，金币越多！",
+  "Punchline": "Less clicks, more gil!",
   "AcceptsFeedback": true
 }

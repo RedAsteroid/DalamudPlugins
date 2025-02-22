@@ -22,8 +22,8 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 | AetheryteLinkInChat | [SlashNephy](https://github.com/SlashNephy) | 为含有坐标的聊天添加一个传送到目的地最近水晶的按钮 |    |
 | TextAdvance | [NightmareXIV](https://github.com/NightmareXIV) | 跳过对话框与过场动画等 |    |
 | NecroLens | [Jukkales](https://github.com/Jukkales) | 深层迷宫雷达 |    |
-| **-以下插件暂未更新-** | - | - | - |
 | Marketbuddy | [chalkos](https://github.com/chalkos) | 优化手动压价 |    | 
+| **-以下插件暂未更新-** | - | - | - |
 | YesAlready | [daemitus](https://github.com/daemitus) | 自定义选择、跳过对话框与窗口等 |    |
 | Umbra | [Una](https://github.com/una-xiv) | 提供改善游戏生活质量的自定义工具栏与 3D 世界标记功能 | 主库已修复，请使用主库版本   |
 | Deliveroo | [Liza](https://git.carvel.li/liza) | 大国防联军筹备自动化 |  |
