@@ -23,10 +23,10 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 | TextAdvance | [NightmareXIV](https://github.com/NightmareXIV) | 跳过对话框与过场动画等 |    |
 | NecroLens | [Jukkales](https://github.com/Jukkales) | 深层迷宫雷达 |    |
 | Marketbuddy | [chalkos](https://github.com/chalkos) | 优化手动压价 |    | 
+| Deliveroo | [Liza](https://git.carvel.li/liza) | 大国防联军筹备自动化 |  |
 | **-以下插件暂未更新-** | - | - | - |
 | YesAlready | [daemitus](https://github.com/daemitus) | 自定义选择、跳过对话框与窗口等 |    |
 | Umbra | [Una](https://github.com/una-xiv) | 提供改善游戏生活质量的自定义工具栏与 3D 世界标记功能 | 主库已修复，请使用主库版本   |
-| Deliveroo | [Liza](https://git.carvel.li/liza) | 大国防联军筹备自动化 |  |
 | OOBlugin | [UnknownX7](https://github.com/UnknownX7) | 出图辅助 | | |
 | LuckyStar | [c98cmka](https://github.com/c98cmka)、[NiGuangOWO](https://github.com/NiGuangOwO) | S怪狩猎触发自动农怪 | 仅测试 |
 | **-以下插件已移除或不可用-** | - | - | - |
