@@ -57,7 +57,7 @@
     "InternalName": "HuntTrainAssistant",
     "Punchline": "狩猎车辅助工具",
     "AssemblyVersion": "1.0.2.22",
-    "Description": "为狩猎车提供的实用工具，例如：高亮显示车头聊天信息并屏蔽所有其他玩家的聊天、自动打开车头发送的<flag>旗帜坐标链接、自动传送到车头发送的坐标目的地。\n\n- 增加命令: /hta pf <自由留言内容> → 创建怪物狩猎招募(不区分大小写，无参数则使用设置的自由留言)\n- 在主窗口显示记录的A怪击杀信息(需要在设置里启用)\n\n请使用逆光喵OwO仓库的Lifestram插件，否则无法进行跨界传送。",
+    "Description": "为狩猎车提供的实用工具，例如：高亮显示车头聊天信息并屏蔽所有其他玩家的聊天、自动打开车头发送的<flag>旗帜坐标链接、自动传送到车头发送的坐标目的地。\n\n- 增加命令: /hta pf <自由留言内容> → 创建怪物狩猎招募(不区分大小写，无参数则使用设置的自由留言)\n- 在主窗口显示记录的A怪击杀信息(需要在设置里启用)\n\n请使用逆光喵OwO仓库的Lifestream插件，否则无法进行跨界传送。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/HuntTrainAssistant/master/HuntTrainAssistant/images/icon.png",
