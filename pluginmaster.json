@@ -4,13 +4,13 @@
     "Name": "NecroLens",
     "InternalName": "NecroLens",
     "Punchline": "真正的死灵术士总是对深层迷宫了如指掌... 其他人只是在使用高科技而已！\n(在线安装 Only)",
-    "AssemblyVersion": "1.0.7.18",
-    "Description": "深层迷宫小帮手，提供怪物雷达，显示引战范围、视觉范围等功能。\nCN7.1 \n- 修正错误的怪物引战信息类型\n- 修正引战范围距离\n- 支持宏砸陶器中文参数\n\n请勿倒卖或通过付费购买途径获取插件",
+    "AssemblyVersion": "1.0.7.19",
+    "Description": "深层迷宫小帮手，提供怪物雷达，显示引战范围、视觉范围等功能。\nCN7.11 \n- 修正错误的怪物引战信息类型\n- 修正引战范围距离\n- 支持宏砸陶器中文参数\n\n请勿倒卖或通过付费购买途径获取插件",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
     "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/RedAsteroid/NecroLens/releases/download/23/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/RedAsteroid/NecroLens/releases/download/23/latest.zip"
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/NecroLens/releases/download/24/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/NecroLens/releases/download/24/latest.zip"
   },
   {
     "Author": "Chalkos",
