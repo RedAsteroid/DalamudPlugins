@@ -6,6 +6,10 @@
 
 - CN 7.15
 
+---
+
+7.2 插件已完成适配，等待开服测试
+
 
 ## 仓库链接：
 
@@ -17,9 +21,9 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 
 | 插件名称 | 作者 | 介绍 | 备注 |
 |---|---|---|---|
+| AetheryteLinkInChat | [SlashNephy](https://github.com/SlashNephy) | 为含有坐标的聊天添加一个传送到目的地最近水晶的按钮 |    |
 | RetainerTrack | [Liza](https://git.carvel.li/liza) | 记录雇员归属的玩家 | 修复编码错误 |
 | HuntTrainAssistant | [NightmareXIV](https://github.com/NightmareXIV) | 狩猎车辅助工具 | 国服world存在问题，请使用[NiGuangOwO](https://github.com/NiGuangOwO)仓库中的Lifestream |
-| AetheryteLinkInChat | [SlashNephy](https://github.com/SlashNephy) | 为含有坐标的聊天添加一个传送到目的地最近水晶的按钮 |    |
 | TextAdvance | [NightmareXIV](https://github.com/NightmareXIV) | 跳过对话框与过场动画等 |    |
 | NecroLens | [Jukkales](https://github.com/Jukkales) | 深层迷宫雷达 |    |
 | Marketbuddy | [chalkos](https://github.com/chalkos) | 优化手动压价 |    | 
