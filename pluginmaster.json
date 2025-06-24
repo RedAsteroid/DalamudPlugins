@@ -141,5 +141,18 @@
     "IconUrl": "https://plugins.carvel.li/icons/Deliveroo.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/Plugins/Deliveroo/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/Plugins/Deliveroo/latest.zip",
+  },
+  {
+    "Author": "Ice, RedAsteroid(汉化)",
+    "Name": "Ice's Cosmic Exploration",
+    "InternalName": "Ice's Cosmic Exploration",
+    "Punchline": "大家都需要的采集伙伴",
+    "AssemblyVersion": "0.0.0.46",
+    "Description": "采集小助手，助您全心投入收集。\n这是一个测试阶段的汉化版本，有错误是正常的\n请勿通过闲鱼小店购买此插件，虽然我知道挨千刀的杂碎倒狗迟早会闻着味来的",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "IconUrl": " null",
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/test/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/test/latest.zip",
   }
  ]
