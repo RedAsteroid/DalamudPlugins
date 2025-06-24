@@ -1,0 +1,17 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Deliveroo",
+  "InternalName": "Deliveroo",
+  "AssemblyVersion": "7.3",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Deliveroo",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://plugins.carvel.li/icons/Deliveroo.png",
+  "Punchline": "Better Grand Company Deliveries",
+  "AcceptsFeedback": true
+}
