@@ -147,13 +147,13 @@
     "Name": "Ice's Cosmic Exploration",
     "InternalName": "ICE",
     "Punchline": "大家都需要的采集伙伴",
-    "AssemblyVersion": "0.0.0.491",
+    "AssemblyVersion": "0.0.0.492",
     "Description": "采集小助手，助您全心投入收集。\n这是一个测试阶段的汉化版本，有错误是正常的\n请勿通过闲鱼小店购买此插件，一分钱都不该付",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "Changelog": "- 基本汉化与文本适配\n- 修复快捷任务应用逻辑问题\n- 新增功能: 自动离开设置为不切换",
     "IconUrl": "https://github.com/RedAsteroid/DalamudPlugins/raw/main/Plugins/ICE/icon.png",
-    "DownloadLinkInstall": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/test4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/test4/latest.zip",
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.492/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.492/latest.zip",
   }
  ]
