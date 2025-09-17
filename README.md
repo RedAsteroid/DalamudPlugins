@@ -21,8 +21,8 @@ https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.j
 | TextAdvance | [NightmareXIV](https://github.com/NightmareXIV) | 跳过对话框与过场动画等 |    |
 | YesAlready | [daemitus](https://github.com/daemitus) | 自定义选择、跳过对话框与窗口等 |    |
 | Umbra | [Una](https://github.com/una-xiv) | 提供改善游戏生活质量的自定义工具栏与 3D 世界标记功能 | 应对一些意外情况的备份 |
+| Ice's Cosmic Exploration | [ICE](https://github.com/LeontopodiumNivale14) | 月球探索自动化 | 基于测试版同步，可能有漏洞 |
 | **-以下插件还未更新-** | - | - | - |
-| Ice's Cosmic Exploration | [ICE](https://github.com/LeontopodiumNivale14) | 月球探索自动化 | 适配未全部完成，可能有错误 |
 | NecroLens | [Jukkales](https://github.com/Jukkales) | 深层迷宫雷达 |    |
 | Marketbuddy | [chalkos](https://github.com/chalkos) | 优化手动压价 |    | 
 | **-以下插件已移除/不可用/不考虑继续维护-** | - | - | - |
