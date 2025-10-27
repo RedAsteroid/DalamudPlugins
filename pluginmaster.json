@@ -147,13 +147,13 @@
     "Name": "Ice's Cosmic Exploration",
     "InternalName": "ICE",
     "Punchline": "大家都需要的采集伙伴",
-    "AssemblyVersion": "0.0.0.632 ",
+    "AssemblyVersion": "0.0.0.633 ",
     "Description": "采集小助手，助您全心投入收集。\n这是一个实验性的本地化分支，可能存在潜在错误需要捉虫\n请勿通过闲鱼小店购买此插件，一分钱都不该付\n\n如果无法加载请删除配置文件重新加载\n钓鱼任务默认使用 AutoHook 内置预设, 如需使用 MissFisher 请禁用 AutoHook",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "Changelog": "API 13，如果无法加载请删除配置文件重新加载\n- 基本汉化与文本适配\n- 新增功能: 自动离开设置为不切换(防椅子)\n- 新增设置: 自动在钓鱼任务开始时抛竿(适配 MissFisher 逻辑)\n- 修复捕鱼人任务金星完成后不移除任务的问题\n- 修复未安装任何钓鱼插件时的空引用异常",
     "IconUrl": "https://github.com/RedAsteroid/DalamudPlugins/raw/main/Plugins/ICE/icon.png",
-    "DownloadLinkInstall": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.632/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.632/latest.zip",
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.633/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.633/latest.zip",
   }
  ]
