@@ -5,7 +5,7 @@
     "InternalName": "NecroLens",
     "Punchline": "真正的死灵术士总是对深层迷宫了如指掌... 其他人只是在使用高科技而已！",
     "AssemblyVersion": "1.0.8.11",
-    "Description": "深层迷宫小帮手，提供怪物雷达，显示引战范围、视觉范围等功能。\n修复了一系列问题，\n\n请勿倒卖或通过付费购买途径获取插件",
+    "Description": "深层迷宫小帮手，提供怪物雷达，显示引战范围、视觉范围等功能。\n修复了一系列问题\n\n请勿倒卖或通过付费购买途径获取插件",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
