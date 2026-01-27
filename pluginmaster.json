@@ -162,8 +162,8 @@
     "RepoUrl": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration",
     "DownloadLinkInstall": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.657/latest.zip",
     "DownloadLinkUpdate": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.657/latest.zip",
-    "DownloadLinkTesting": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.660/latest.zip",
-    "TestingAssemblyVersion": "0.0.0.660",
+    "DownloadLinkTesting": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.661/latest.zip",
+    "TestingAssemblyVersion": "0.0.0.661",
     "TestingDalamudApiLevel": "14"
   }
  ]
