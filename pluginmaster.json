@@ -157,7 +157,7 @@
     "Description": "满足您的宇宙探索需求的一站式服务中心! 本插件旨在成为一个综合工具, 让您能够刷取采集与制作职业的宇宙工具, 同时也能帮助您将每个职业的技巧点刷到 50 万, 以获得那台您梦寐以求的的帅气黑色机甲~\n\n- 能够为您反复刷新任务, 直到您想要刷的那个任务出现\n- 制作职业在 Artisan 的支持下可以实现完全自动化\n- 捕鱼人也能在 AutoHook 和 Navmesh 的支持下实现完全自动化(支持 MissFisher)\n- 园艺工/采矿工只需要 Navmesh, 多亏了插件直接内置了采集功能 <3\n- 设置您想用宇宙信用点在商店购买的物品, 或使用行星信用点来玩宇宙好运道!\n\n这是一个实验性的本地化分支，可能存在潜在错误需要捉虫\n请勿通过闲鱼小店购买此插件，一分钱都不该付\n\n如果无法加载请删除配置文件重新加载\n钓鱼任务默认使用 AutoHook 内置预设, 如需使用 MissFisher 请禁用 AutoHook",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "Changelog": "- 上游修改: 修复\"寻路移动卡住时跳跃\"无效问题(遗物探索某个点位需要跳跃),\n  修改采集逻辑: 恢复采集次数技能将在采集点只剩1或2次时使用, 并且至少会使用一次以避免浪费, 扩展研究现在会优先于GP技能使用\n\t请注意! 自动遗物探索绝对不要无人看管时启用, 部分点位明确存在寻路卡死问题\n- 对 MeowZWR 维护的 Artisan 分支增加了额外的 IPC 通信兼容\n\nAPI 14，如果无法加载请删除配置文件重新加载\n- 基本汉化与文本适配\n- 对 MissFisher 的宇宙探索功能进行适配\n- 新增功能: 自动离开设置为不切换(防椅子)\n- 新增设置: 自动在钓鱼任务开始时抛竿(适配 MissFisher 逻辑)",
+    "Changelog": "- 上游修改: 修复\"寻路移动卡住时跳跃\"无效问题(遗物探索某个点位需要跳跃),\n  修改采集逻辑: 恢复采集次数技能将在采集点只剩1或2次时使用, 并且至少会使用一次以避免浪费, 扩展研究现在会优先于GP技能使用\n  请注意! 自动遗物探索绝对不要无人看管时启用, 部分点位明确存在寻路卡死问题\n- 对 MeowZWR 维护的 Artisan 分支增加了额外的 IPC 通信兼容\n\nAPI 14，如果无法加载请删除配置文件重新加载\n- 基本汉化与文本适配\n- 对 MissFisher 的宇宙探索功能进行适配\n- 新增功能: 自动离开设置为不切换(防椅子)\n- 新增设置: 自动在钓鱼任务开始时抛竿(适配 MissFisher 逻辑)",
     "IconUrl": "https://github.com/RedAsteroid/DalamudPlugins/raw/main/Plugins/ICE/icon.png",
     "RepoUrl": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration",
     "DownloadLinkInstall": "https://github.com/RedAsteroid/Ices-Cosmic-Exploration/releases/download/0.0.0.681/latest.zip",
